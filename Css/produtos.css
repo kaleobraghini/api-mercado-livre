@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; text-align: center; }
+.grid { display: flex; justify-content: center; gap: 10px; margin-top: 10px; }
+.produto { border: 1px solid #000; padding: 20px; min-width: 100px; text-align: center; }
+button { margin-top: 10px; padding: 10px; }
